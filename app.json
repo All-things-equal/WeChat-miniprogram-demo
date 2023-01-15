@@ -1,5 +1,10 @@
 {
     "pages": [
         "pages/home/home"
-    ]
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#66ccff",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "劳模's demo"
+    }
 }

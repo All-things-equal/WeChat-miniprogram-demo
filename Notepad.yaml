@@ -1,0 +1,6 @@
+app.json:
+  "pages": # 指明小程序包含哪些页面,以及每个页面的路径, 必需.
+  "window": # 设置小程序的窗口.
+    navigationBarBackgroundColor: 导航栏的颜色, 默认为#000000黑色。
+    navigationBarTextStyle: 导航栏的文字颜色,只支持black或white, 默认为white。
+    navigationBarTitleText: 导航栏的文字, 默认为空。
